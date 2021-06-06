@@ -5,17 +5,16 @@ The following company of Pewlett-Hackard wishes to obtain further information in
 The following analysis will provide a list of current employees who are eligible to be enlisted within the mentorship based off the mentor’s current age. 
 
 ## Results
+
 -	With a company size of 300,025 our retiring titles table states that close to 90,000 employees will soon be retiring within the next few years. As this 1/3 of the total company employment, Pewlett-Hackard will need to soon launch the “Silver Tsunami” program for a seamless turnover.
--	
+
 - We can see based on the retirement titles table that 64% of the employees hold a Senior position whom could become eligible for retirement
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/81484054/120942435-9cb61380-c6c4-11eb-8b8e-a95fd4f3f058.png)
 
-
 - For a further understanding within our mentorship eligibility the team can quickly visually see how long the retirement-ready employees have been working for Pewlett-Hackard.
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/81484054/120942399-66789400-c6c4-11eb-957c-45172c48ecd6.png)
-
 
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
