@@ -4,6 +4,9 @@ The following company of Pewlett-Hackard wishes to obtain further information in
 
 The following analysis will provide a list of current employees who are eligible to be enlisted within the mentorship based off the mentor’s current age. 
 
+## Tools:
+SQL, Joins, ERD, PgAdmin, PostgreSQL
+
 ## Results
 
 -	With a company size of 300,025 our retiring titles table states that close to 90,000 employees will soon be retiring within the next few years. As this 1/3 of the total company employment, Pewlett-Hackard will need to soon launch the “Silver Tsunami” program for a seamless turnover.
